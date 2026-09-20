@@ -1,0 +1,6 @@
+{
+  "name": "Moçambique Agora",
+  "description": "Portal de notícias profissional, moderno e rápido, focado na actualidade de Moçambique, África Austral e diáspora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
